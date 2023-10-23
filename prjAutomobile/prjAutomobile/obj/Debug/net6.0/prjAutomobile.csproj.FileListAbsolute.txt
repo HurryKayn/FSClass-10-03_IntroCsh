@@ -1,0 +1,14 @@
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\bin\Debug\net6.0\prjAutomobile.exe
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\bin\Debug\net6.0\prjAutomobile.deps.json
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\bin\Debug\net6.0\prjAutomobile.runtimeconfig.json
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\bin\Debug\net6.0\prjAutomobile.dll
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\bin\Debug\net6.0\prjAutomobile.pdb
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.AssemblyInfoInputs.cache
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.AssemblyInfo.cs
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.dll
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\refint\prjAutomobile.dll
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.pdb
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\prjAutomobile.genruntimeconfig.cache
+D:\Personal\Programming\vs22\c231003\prjAutomobile\prjAutomobile\obj\Debug\net6.0\ref\prjAutomobile.dll

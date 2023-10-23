@@ -1,0 +1,28 @@
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.exe
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.deps.json
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.runtimeconfig.json
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.dll
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.pdb
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.AssemblyInfoInputs.cache
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.AssemblyInfo.cs
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.dll
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\refint\IntroduzioneCSh.dll
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.pdb
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.genruntimeconfig.cache
+D:\Personal\Programming\VS Community project\C031023\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\ref\IntroduzioneCSh.dll
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.exe
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.deps.json
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.runtimeconfig.json
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.dll
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\bin\Debug\net6.0\IntroduzioneCSh.pdb
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.AssemblyInfoInputs.cache
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.AssemblyInfo.cs
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.dll
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\refint\IntroduzioneCSh.dll
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.pdb
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\IntroduzioneCSh.genruntimeconfig.cache
+D:\Personal\Programming\vs22\c231003\IntroduzioneCSh\IntroduzioneCSh\obj\Debug\net6.0\ref\IntroduzioneCSh.dll
